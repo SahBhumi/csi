@@ -1,0 +1,51 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: bisque;
+}
+
+body {
+    font-family: cursive;
+}
+
+header {
+    background-color: rgb(82, 114, 151);
+    color: #fff;
+    text-align: center;
+    font-size: medium;
+    font-weight: 100;
+    font-family: cursive;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+section {
+    padding: 1rem;
+}
+
+
+footer {
+    background-color: rgb(65, 195, 91);
+    color: #fff;
+    text-align: center;
+    text-decoration: wavy;
+    font-size: 10px;
+    font-family: cursive;
+    padding: 1rem;
+}
